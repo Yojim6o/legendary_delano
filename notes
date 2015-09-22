@@ -1,0 +1,98 @@
+heroes
+
+black widow: utilizes bystanders for bonuses and card drawing
+	ultimate: kill a villain or hit the mastermind if they captured a bystander
+
+nick fury: provides bonus attack power for tech and avenger type cards
+	ultimate: kill a villain or hit the mastermind if they have less attack power than the number of dead avengers
+
+deadpool: an anti-hero with an odd choice of abilities that may help or hurt the team
+	ultimate: take a wound.  each player hands another player a card in their hand
+
+gambit: has many abilities for hand/deck interchange for the player and their teammates.
+	ultimate: Reveal the top card in your deck, gain attack power equal to its cost.
+
+iron man: has bonus card drawing and attack bonus abilities.
+	ultimate: draw two cards or 4 cards if you have a tech hero.
+
+wolverine: has bonus card drawing and can discard wounds for bonus attack power.
+	ultimate: draw three cards. gain attack power for each extra card you've drawn if you have an instinct card.
+
+emma frost: an anti-hero with card drawing bonuses and attack bonuses, at the cost of summoning villains.
+	ultimate: get additional recruitment points if you defeat a villain or hit the mastermind that turn
+
+hawkeye: card drawing bonuses for player and team members, with attack bonuses for avengers
+	ultimate: rescue 3 bystanders if you kill a villain or hit the mastermind
+
+hulk: significant attack power bonuses using wounds and strength cards.  team members suffer collateral damange wounds.
+	ultimate: 5 attack plus another 5 if a strength hero is played.
+
+thor: good for building recruitment points and rewarding those points with attack bonuses.
+	ultimate: convert all recruitment points to attack power that turn.
+
+storm: can move villains to different city spaces, and nerf villains depending on their location.
+	ultimate: nerf the villain on the bridge.  also nerf the mastermind if you have a ranged card.
+
+rogue: can copy abilities from other cards, including ultimates.
+	ultimate: teammates discard one card from their decks.  player plays all of those cards.
+
+spider-man: good early game hero with low cost recruitment and bonus card drawing abilities
+	ultimate: reveal 3 top cards of your deck.  if their cost is low, put them in your hand.
+
+captain america: grants bonuses for card type variety.
+	ultimate: bonus attack power for each other avenger you played this turn.
+
+cyclops: strong attack power requiring discards. some abilties cancel the discard effect.
+	ultimate: bonus attack power for each other x-man you played this turn.
+
+
+masterminds:
+
+Red Skull: 
+	Attack power: 7 (low)
+	Always leads HYDRA, a variety of villains that can quickly build up in numbers.
+	Master Strike: Each player KOs a Hero from their hand.
+
+Magneto: 
+	Attack power: 8 (medium-low)
+	Always leads Brotherhood, a variety of villains with powerful, situational abilities. (hint: You need an X-man to defeat the Blob)
+	Master Strike: reveal an x-man hero in your hand or else discard down to four cards.
+
+Dr. Doom:
+	Attack power: 9 (medium-high)
+	Always leads Doombot Legion, an army of doombots. when they are attacked, you must discard one of two cards on the top of your deck.
+	Master Strike: if you have 6 cards in your hand, reveal a tech hero or else put two cards on the top of your deck.
+
+Loki:
+	Attack power: 10 (high)
+	Always leads Enemies of Asgard, a variety of powerful villains that are best fought with ranged heroes.
+	Master Strike: Reveal a strength hero or else gain a wound.
+
+other Villain groups: 
+
+Skrulls: Villains who capture heroes from HQ and convert their recruitment cost to attack power. These heroes can be rescued when the villains are fought.
+
+Spider-Foes: Trickster villains with situational abilities. (hint: you need covert heroes to defeat Venom)
+
+Masters of Evil: Strong villains that, if attacked strategicly, provide bonuses to players.
+
+Hand Ninjas: An army of ninja villains that provide bonus recruitment points when fought.
+
+Radiation: Villains with a balance of abilties and bonuses when fought.  They mostly just look ugly.
+
+Sentinels: An army of sentinels. When you fight them, you must KO a hero in your hand.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
